@@ -1,0 +1,51 @@
+### My role
+
+* I am working on: IT support, technical assistance, and ensuring our systems run smoothly, while also applying insights from my Information Systems studies to improve our internal processes.
+
+* The days and times I work are: I work a standard schedule with a hybrid arrangement, typically working from home onedays a week and operating from my home desktop setup on those days.
+
+### How I Work Best
+
+* I do my best work when: I can start my day by organizing my morning dashboard to map out my schedule, tasks, and travel times before diving into the queue.
+
+* I struggle when: Technical requests are submitted without context or step-by-step reproduction details, which slows down the troubleshooting process.
+
+### Communication Style
+
+* I prefer messages to be: Clear, direct, and structured. Bullet points and numbered lists are highly appreciated when outlining a problem or requesting access.
+
+* The best way to reach me is: Discord for quick async questions, or via official support tickets/email for detailed technical requests.
+
+* If you need something urgent, do this: Tag me directly in the relevant channel or send a direct message stating what is blocked and the timeline.
+
+### Collaboration & Teamwork
+
+* I work best in a team when: Expectations, documentation, and hand-offs are clearly defined. I appreciate blameless post-mortems when things go wrong.
+
+* My biggest pet peeve in teamwork is: Ghosting or missing context. Let me know if you are blocked so we can find a solution together.
+
+* If I seem quiet in a meeting, it usually means: I am actively processing the information or taking detailed notes on my laptop to update our documentation later.
+
+### Focus & Productivity
+
+* I stay focused by: Putting on my Sony headphones, turning on noise cancellation, and running my Spotify liked playlist during deep work sessions.
+
+* Things that distract me: Unnecessary, unstructured notifications and sensory overload from cluttered digital environments.
+
+* The best way to support my productivity is: Providing clear priorities and allowing me to sequence my tasks efficiently without constant context-switching.
+
+### Feedback & Growth
+
+* I like feedback to be: Direct, constructive, and focused on the work or the action rather than the individual.
+
+* When I make a mistake, the best way to let me know is: Via a private message or a quick 1:1 call so I can understand the issue and correct it immediately.
+
+* I appreciate it when teammates: Assume good intent, ask clarifying questions, and offer actionable suggestions for improvement.
+
+### Fun Facts & Quirks
+
+* One thing people often misunderstand about me is: I might seem intensely focused when tackling a complex technical issue, but I am always happy to pause and help if you need assistance.
+
+* A fun fact about me: Outside of work and my MBA studies, I’m a big fan of Arsenal FC.
+
+* My work superpower is: Systemizing chaotic tasks and breaking down complex technical workflows into simple, accessible, and inclusive steps.
